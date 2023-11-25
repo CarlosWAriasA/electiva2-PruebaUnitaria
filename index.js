@@ -1,5 +1,5 @@
 const message = () => {
-  return "Hello, world!";
+  return "Restriccion";
 };
 
 module.exports = message;
